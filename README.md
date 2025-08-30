@@ -23,6 +23,11 @@ and classifies them as 🟢 SAFE, ⚠ SUSPICIOUS, or 🔴 PHISHING.
 - ✅ Simple **Gradio interface** with tabs (URL & File scanner)
 
 ---
+## ⚡ How to Run
+- ✅ open the Google Colab and upload the file and execute phishing_detector.py file
+
+  
+## 📸 Demo Screenshot
 
 <img width="1880" height="907" alt="image" src="https://github.com/user-attachments/assets/fb9061f5-b10a-46bc-aaca-da9e3ff83558" />
 
