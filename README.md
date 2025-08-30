@@ -24,3 +24,4 @@ and classifies them as 🟢 SAFE, ⚠ SUSPICIOUS, or 🔴 PHISHING.
 
 ---
 
+<img width="1892" height="908" alt="image" src="https://github.com/user-attachments/assets/f06d6785-5657-45e4-bda8-2d51451d4e0f" />
